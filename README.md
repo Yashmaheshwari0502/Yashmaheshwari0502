@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Maheshwari</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/16191500-Coder/attachments/8050475?mode=media">
+<img align="right" alt="Coding" width="400" src="https://github.com/rudrabarad/Gifs">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashmaheshwari0502&label=Profile%20views&color=0e75b6&style=flat" alt="yashmaheshwari0502" /> </p>
 
