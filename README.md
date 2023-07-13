@@ -1,4 +1,4 @@
-[![MasterHead](https://www.123rf.com/photo_102988806_vector-line-web-concept-for-programming-linear-web-banner-for-coding.html)](https://codegrills.in)
+
 <h1 align="center">Hi 👋, I'm Yash Maheshwari</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
