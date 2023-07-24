@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/yash00000000005" target="blank"><img src="https://img.shields.io/twitter/follow/yash00000000005?logo=twitter&style=for-the-badge" alt="yash00000000005" /></a> </p>
 
-- 🌱 I’m currently learning **Dsa**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Flutter, Three js , Javascript**
 
