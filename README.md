@@ -6,9 +6,5 @@
 
 
 
-
-
-
-
 ### The one piece is real 
 ### I'm gonna be kings of the pirates
