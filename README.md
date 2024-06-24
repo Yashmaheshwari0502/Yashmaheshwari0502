@@ -1,13 +1,14 @@
-<div align="left">
+### Hi there 👋
 
-# Hello Everyone 
-## My name is Yash Maheshwari
-## Mtech Student
-![IMG_5270](https://github.com/Yashmaheshwari0502/Yashmaheshwari0502/assets/76582161/0ec0f9c0-9240-4bdb-a747-124e75dbea97)
-
-<div align="left
-
-
-
-
-
+<!--
+**Yashmaheshwari0502/Yashmaheshwari0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
