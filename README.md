@@ -1,14 +1,25 @@
-### Hi there 👋
+# 💫 Hi I'm Yash
+🔭 I’m currently working on myself🛠️<br>🌱 I’m currently learning dsa👷‍♂️<br>💬 Ask me about nothing🥱<br>⚡ Fun fact no projects 😂😂
 
-<!--
-**Yashmaheshwari0502/Yashmaheshwari0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yash-maheshwari-903294214/) 
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fyashmaheshwari0502&logo=leetcode&logoColor=yellow)](https://www.linkedin.com/in/yash-maheshwari-903294214/)
+ 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+# 📂 Projects:
+0 - Coming soon... or not 😂
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yashmaheshwari0502&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yashmaheshwari0502&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashmaheshwari0502&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=yashmaheshwari0502&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+
