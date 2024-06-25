@@ -1,5 +1,5 @@
 # 💫 Hi I'm Yash
-🔭 I’m currently working on myself🛠️<br>🌱 I’m currently learning dsa👷‍♂️<br>💬 Ask me about nothing🥱<br>⚡ Fun fact no projects 😂😂<br>🖥️ my portfolio! 👉 [yashmaheshwari.vercel.app](https://yashmaheshwari.vercel.app/)
+🔭 I’m currently working on myself🛠️<br>🌱 I’m currently learning dsa👷‍♂️<br>💬 Ask me about nothing🥱<be <br>🖥️ my portfolio! 👉 [yashmaheshwari.vercel.app](https://yashmaheshwari.vercel.app/)
 
 
 
