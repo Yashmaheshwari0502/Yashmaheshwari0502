@@ -10,8 +10,6 @@
 [![Codeforces](https://badges.joonhyung.xyz/codeforces/YashMaheshwari0502.svg)](https://codeforces.com/profile/YashMaheshwari0502)
 
 
-
-
  
 
 # 💻 Tech Stack:
