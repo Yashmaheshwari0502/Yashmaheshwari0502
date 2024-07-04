@@ -15,7 +15,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 # 📂 Projects:
-0 - Coming soon... or not 😂
+0 - Coming soon...
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yashmaheshwari0502&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
