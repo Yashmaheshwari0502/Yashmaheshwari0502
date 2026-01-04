@@ -44,4 +44,9 @@ Java | Spring | Spring Boot | Hibernate | ORM | REST APIs | Git | SQL
 </div>
 
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/yashmaheshwari0502/yashmaheshwari0502/blob/output/github-contribution-grid-snake.svg)
+
+
 
