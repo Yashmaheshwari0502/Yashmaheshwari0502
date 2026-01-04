@@ -31,7 +31,7 @@ Java | Spring | Spring Boot | Hibernate | ORM | REST APIs | Git | SQL
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yashmaheshwari0502&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+
 
 <br/><br/>
 
@@ -39,7 +39,7 @@ Java | Spring | Spring Boot | Hibernate | ORM | REST APIs | Git | SQL
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashmaheshwari0502&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
 
 </div>
 
