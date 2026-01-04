@@ -7,6 +7,22 @@
   <img src="https://media.giphy.com/media/13Uqp5IGFpmDle/giphy.gif" width="300"/>
 </p>
 
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?
+    font=Pirata+One
+    &size=28
+    &duration=3000
+    &pause=1200
+    &color=FFD700
+    &center=true
+    &vCenter=true
+    &width=900
+    &lines=A+man's+dream+will+never+die!;I+don't+want+to+conquer+anything.;The+man+who+has+the+most+freedom+is+the+Pirate+King;The+sea+is+where+I+belong"
+  />
+</p>
+
 ---
 
 ## 🌊 About Me (Straw Hat Style)
