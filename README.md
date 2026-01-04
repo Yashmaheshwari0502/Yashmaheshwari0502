@@ -27,9 +27,9 @@ I am a passionate **Java Developer at Yes Madam**, specializing in building scal
 Java | Spring | Spring Boot | Hibernate | ORM | REST APIs | Git | SQL
 ```
 
-## 🏆 GitHub Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yashmaheshwari0502&theme=onedark&no-frame=true&row=1&column=6)
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yashmaheshwari0502&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=yashmaheshwari0502&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashmaheshwari0502&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
