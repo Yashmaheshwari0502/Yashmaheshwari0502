@@ -1,50 +1,50 @@
-<h1 align="center">🏴‍☠️ Ahoy! I'm Yash 👋</h1>
-<h3 align="center">Java Developer | Problem Solver | On a Journey to the Grand Line 🚀</h3>
+<h1 align="center">🏴‍☠️ Hi, I'm Yash</h1>
+<h3 align="center">Java Developer at YesMadam ⚔️ | Sailing the Backend Seas</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Java+Developer+at+Yes+Madam;Learning+DSA+%26+Backend+Engineering;Dreaming+Big+Like+Luffy+⚓" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Java+Developer+at+YesMadam;Spring+%7C+Spring+Boot+%7C+Hibernate;Building+Scalable+Backend+Systems+⚓" />
 </p>
 
 ---
 
-## ☠️ About Me (Crew Introduction)
+## ☠️ About Me
 
-🏴‍☠️ Inspired by **:contentReference[oaicite:1]{index=1}**, I believe in:
-- Never giving up on dreams 🌊  
-- Constant learning & growth 📈  
-- Building skills brick by brick 🧱  
+Inspired by **:contentReference[oaicite:1]{index=1}**, I believe in consistency, discipline,  
+and growing **one skill at a time—like Luffy grows stronger arc by arc**.
 
-⚙️ Currently working as a **Java Developer**  
-🧠 Improving **DSA & System Design**  
-🚀 Goal: Become a **Top Backend Engineer**
+- 💼 **Java Developer at YesMadam**
+- ⚙️ Backend-focused engineer
+- 🚀 Passionate about clean architecture & scalable systems
 
 ---
 
-## 🧭 Tech Stack (My Weapons)
+## ⚔️ Tech Stack (My Arsenal)
 
-### ⚔️ Languages
-- ☕ Java  
-- 🐍 Python  
-- 🌐 HTML, CSS, JavaScript  
+### ☕ Core Skills
+- **Java**
+- **Spring Framework**
+- **Spring Boot**
+- **ORM (Hibernate / JPA)**
 
-### 🛠️ Tools & Frameworks
-- Spring / Spring Boot  
-- Git & GitHub  
+### 🛠 Backend Tools
+- RESTful APIs  
 - MySQL  
-- REST APIs  
+- Git & GitHub  
+- Maven  
 
 ---
 
-## 🗺️ Current Arc (What I'm Doing Now)
+## 🧭 What I Do at Work
 
-- 📚 Mastering **Data Structures & Algorithms**
-- 🔥 Building **real-world Java backend projects**
-- 🧪 Exploring **Spring Boot & Microservices**
-- 💡 Learning how scalable systems work
+- 🔹 Build and maintain **Spring Boot backend services**
+- 🔹 Implement **ORM with Hibernate** for database operations
+- 🔹 Design **clean REST APIs**
+- 🔹 Fix bugs, optimize queries, and improve performance
+- 🔹 Follow best practices in backend development
 
 ---
 
-## 🏴‍☠️ GitHub Stats (Bounty Poster)
+## 🏴‍☠️ GitHub Stats (Bounty Board)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yashmaheshwari0502&show_icons=true&theme=tokyonight" height="165"/>
@@ -53,26 +53,23 @@
 
 ---
 
-## ⚓ Philosophy (Way of the Pirate)
+## ⚓ Developer Philosophy
 
-> *"If you don’t take risks, you can’t create a future."*  
-> — Monkey D. Luffy
+> *“No matter how deep the sea, I’ll keep moving forward.”*
 
-I code with the mindset of a pirate:
-- Freedom to build 🧠  
-- Courage to fail 💥  
-- Discipline to improve every day 🧘  
+- Write **readable code**
+- Learn **every single day**
+- Improve **step by step**
 
 ---
 
-## 📬 Contact the Captain
+## 📬 Connect With Me
 
-- 💼 LinkedIn: *(add link here)*  
-- 📧 Email: *(add email here)*  
+- 💼 LinkedIn: *(add link)*
+- 📧 Email: *(add email)*
 
 ---
 
 <p align="center">
-  <b>☠️ Still sailing… One repo at a time ⚓</b>
+  <b>🏴‍☠️ Backend Pirate | Java Crew | Still Sailing ⚓</b>
 </p>
-
