@@ -1,75 +1,24 @@
-<h1 align="center">🏴‍☠️ Hi, I'm Yash</h1>
-<h3 align="center">Java Developer at YesMadam ⚔️ | Sailing the Backend Seas</h3>
+# 💫 About Me:
+Java Developer at YesMadam with experience in Java, Spring, Spring Boot, and Hibernate.<br> I focus on building reliable, scalable backend systems and continuously improving my skills.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Java+Developer+at+YesMadam;Spring+%7C+Spring+Boot+%7C+Hibernate;Building+Scalable+Backend+Systems+⚓" />
-</p>
 
----
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yashmaheshwari0502&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=yashmaheshwari0502&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashmaheshwari0502&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## ☠️ About Me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yashmaheshwari0502&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-Inspired by **:contentReference[oaicite:1]{index=1}**, I believe in consistency, discipline,  
-and growing **one skill at a time—like Luffy grows stronger arc by arc**.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 💼 **Java Developer at YesMadam**
-- ⚙️ Backend-focused engineer
-- 🚀 Passionate about clean architecture & scalable systems
-
----
-
-## ⚔️ Tech Stack (My Arsenal)
-
-### ☕ Core Skills
-- **Java**
-- **Spring Framework**
-- **Spring Boot**
-- **ORM (Hibernate / JPA)**
-
-### 🛠 Backend Tools
-- RESTful APIs  
-- MySQL  
-- Git & GitHub  
-- Maven  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=yashmaheshwari0502&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=yashmaheshwari0502&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🧭 What I Do at Work
-
-- 🔹 Build and maintain **Spring Boot backend services**
-- 🔹 Implement **ORM with Hibernate** for database operations
-- 🔹 Design **clean REST APIs**
-- 🔹 Fix bugs, optimize queries, and improve performance
-- 🔹 Follow best practices in backend development
-
----
-
-## 🏴‍☠️ GitHub Stats (Bounty Board)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashmaheshwari0502&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashmaheshwari0502&theme=tokyonight" height="165"/>
-</p>
-
----
-
-## ⚓ Developer Philosophy
-
-> *“No matter how deep the sea, I’ll keep moving forward.”*
-
-- Write **readable code**
-- Learn **every single day**
-- Improve **step by step**
-
----
-
-## 📬 Connect With Me
-
-- 💼 LinkedIn: *(add link)*
-- 📧 Email: *(add email)*
-
----
-
-<p align="center">
-  <b>🏴‍☠️ Backend Pirate | Java Crew | Still Sailing ⚓</b>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
