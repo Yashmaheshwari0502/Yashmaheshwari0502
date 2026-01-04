@@ -27,9 +27,21 @@ I am a passionate **Java Developer at Yes Madam**, specializing in building scal
 Java | Spring | Spring Boot | Hibernate | ORM | REST APIs | Git | SQL
 ```
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yashmaheshwari0502&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yashmaheshwari0502&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashmaheshwari0502&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yashmaheshwari0502&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+
+<br/><br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=yashmaheshwari0502&theme=dark&hide_border=false" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashmaheshwari0502&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+</div>
+
 
 
