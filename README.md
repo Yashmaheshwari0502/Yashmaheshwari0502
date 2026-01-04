@@ -1,72 +1,81 @@
-<!-- One Piece Theme GitHub Profile README -->
+<div align="center">
 
-<h1 align="center">🏴‍☠️ Hi, I'm Yash Maheshwari 🌊</h1>
-<h3 align="center">⚔️ Software Development Engineer (Java) at Yes Madam ⚔️</h3>
+<br><br>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13Uqp5IGFpmDle/giphy.gif" width="300"/>
-</p>
+# 🌊 Yo-ho-ho! I'm Yash Maheshwari, the Future Pirate King of Code! 🏴‍☠️
+
+> "I want to live!" – Monkey D. Luffy  
+> Java Developer sailing the Grand Line at YesMadam. Conquering backend seas with clean, robust code. On a quest for the ultimate treasure: **flawless enterprise applications**.
+
+<br>
+
+### 🚢 My Journey on the Seas (About Me)
+- 🎓 Integrated B.Tech + M.Tech from Gautam Buddha University
+- ⚓ Current Role: Java Developer @ YesMadam
+- 🗺️ Navigating the backend oceans, battling bugs and optimizing performance
+- 🍖 Always hungry for new challenges in scalable systems
+
+<grok-card data-id="49b8d1" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 
 
+<br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?
-    font=Pirata+One
-    &size=28
-    &duration=3000
-    &pause=1200
-    &color=FFD700
-    &center=true
-    &vCenter=true
-    &width=900
-    &lines=A+man's+dream+will+never+die!;I+don't+want+to+conquer+anything.;The+man+who+has+the+most+freedom+is+the+Pirate+King;The+sea+is+where+I+belong"
-  />
-</p>
+### 🥊 Wanted Poster
 
----
+<div align="center">
+  <strong>DEAD OR ALIVE</strong><br>
+  Yash Maheshwari<br>
+  Bounty: <img src="https://img.shields.io/badge/Bounty-∞-Beli-red?style=for-the-badge&logoColor=gold"/><br>
+  Crime: Mastering Java ecosystems and deploying unbreakable Spring Boot apps
+</div>
 
-## 🌊 About Me (Straw Hat Style)
-- ☕ **SDE (Java Backend Developer)**
-- 🏢 Currently sailing with **Yes Madam**
-- 🌱 Training hard in **Spring Boot & System Design**
-- 🧠 Believe in **clean code > clever code**
-- 🎯 Goal: Become a **top-tier backend engineer**
+*(Pro tip: Create your own custom Wanted Poster with your photo at https://photooxy.com/manga-and-anime/make-one-piece-wanted-poster-online-129.html – upload it and replace the example above!)*
 
-> *“I don’t want to conquer anything. I just think the guy with the most freedom in this whole ocean… is the Pirate King.”* – Luffy 🧢
+<grok-card data-id="a53728" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 
----
 
-## 🗺️ Tech Arsenal
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,linux" />
-</p>
+<br><br>
 
-- **Language:** Java ☕  
-- **Frameworks:** Spring, Spring Boot  
-- **Database:** MySQL  
-- **Tools:** Git, GitHub, Maven  
-- **Core Concepts:** OOP, REST APIs, Multithreading, Collections  
+### ⚔️ My Devil Fruits (Tech Stack)
 
----
+| Role              | Power / Tool                                |
+|-------------------|---------------------------------------------|
+| Captain           | Java / Java 8                               |
+| Swordsman         | Spring / Spring Boot                        |
+| Navigator         | Hibernate / JPA (ORM)                       |
+| Doctor            | REST APIs / Microservices                   |
+| Cook              | MySQL / PostgreSQL                          |
+| Shipwright        | Maven / Gradle                              |
+| Archaeologist     | Git / GitHub                                |
+| Sniper            | Problem-Solving & Clean Code                |
 
-## ⚔️ GitHub Bounty (Stats)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashmaheshwari0502&show_icons=true&theme=tokyonight" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashmaheshwari0502&theme=tokyonight" />
-</p>
+### 📊 Pirate Stats (My Adventure Log)
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
-## 🌊 Connect With Me
-- 🐙 GitHub: [Yashmaheshwari0502](https://github.com/Yashmaheshwari0502)
+<br><br>
 
----
+### 🐐 Sailing with the Thousand Sunny
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LZElUsjl1Bu6c/giphy.gif" width="250"/>
-</p>
+<grok-card data-id="9739b9" data-type="image_card"  data-arg-size="LARGE" ></grok-card>
 
-<h3 align="center">⭐ “A man’s dream… will never die!” ⭐</h3>
+
+*The Grand Line awaits more adventures... Join my crew? Star my repos or drop a follow!*
+
+<br>
+
+> "If you don’t take risks, you can’t create a future." – Monkey D. Luffy
+
+</div>
+
+<hr>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME" alt="Visitors"/>
+</div>
