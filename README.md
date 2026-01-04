@@ -10,7 +10,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 
 <!--🖼️ILOVEOPENSOURCE-->
-<img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
+<img src="https://imgur.com/gallery/i-love-coding-licOxVK" height="120" width="600">
 
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <p align="center">
