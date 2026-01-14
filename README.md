@@ -15,7 +15,8 @@ I am a passionate **Java Developer at Yes Madam**, specializing in building scal
   - Spring  
   - Spring Boot  
   - ORM  
-  - Hibernate  
+  - Hibernate
+  - MySql
 - 🌱 Currently improving skills in **backend architecture & system design**
 - ⚡ Love turning ideas into production-ready applications
 
@@ -24,7 +25,7 @@ I am a passionate **Java Developer at Yes Madam**, specializing in building scal
 ## 🛠️ Skills & Tools
 
 ```text
-Java | Spring | Spring Boot | Hibernate | ORM | REST APIs | Git | SQL
+Java | Spring | Spring Boot | Hibernate | ORM | REST APIs | Git | SQL | MYSQL
 ```
 
 ## 📊 GitHub Stats
