@@ -26,7 +26,7 @@ I am a passionate **AI Associate at Yes Madam**, focused on designing and buildi
 
 ```text
 Generative AI | Agentic AI | RAG | LangChain | LLMs | Prompt Engineering | Python | APIs | Git | Intelligent Automation
-
+```
 
 ## 📊 GitHub Stats
 
