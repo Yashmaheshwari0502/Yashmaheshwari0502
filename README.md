@@ -1,32 +1,32 @@
 # 👋 Hi, I'm Yash Maheshwari
 
-🚀 **Java Developer** | ☕ Spring & Spring Boot Enthusiast | 🧠 Backend Engineer  
+🤖 **AI Associate @ Yes Madam** | 🧠 Generative AI, Agentic AI & RAG Enthusiast | ⚡ Building Intelligent Systems  
 
-I am a passionate **Java Developer at Yes Madam**, specializing in building scalable backend systems using modern Java frameworks. I enjoy writing clean code, solving real-world problems, and continuously learning new technologies.
+I am a passionate **AI Associate at Yes Madam**, focused on designing and building **scalable, intelligent AI solutions** using modern LLM frameworks and automation tools. I enjoy turning complex ideas into real-world AI products, experimenting with cutting-edge models, and exploring the future of applied artificial intelligence.
 
 ---
 
 ## 💼 About Me
 
 - 🏢 **Working at:** Yes Madam  
-- 💻 **Role:** Java Developer  
+- 🤖 **Role:** AI Associate  
 - 🔧 **Tech Stack:**  
-  - Java  
-  - Spring  
-  - Spring Boot  
-  - ORM  
-  - Hibernate
-  - MySql
-- 🌱 Currently improving skills in **backend architecture & system design**
-- ⚡ Love turning ideas into production-ready applications
+  - Generative AI  
+  - Agentic AI  
+  - RAG (Retrieval-Augmented Generation)  
+  - LangChain  
+  - LLMs  
+  - Intelligent Automation  
+- 🌱 Currently improving skills in **AI system design & scalable AI architectures**  
+- ⚡ Love transforming ideas into **production-ready AI products**
 
 ---
 
 ## 🛠️ Skills & Tools
 
 ```text
-Java | Spring | Spring Boot | Hibernate | ORM | REST APIs | Git | SQL | MYSQL
-```
+Generative AI | Agentic AI | RAG | LangChain | LLMs | Prompt Engineering | Python | APIs | Git | Intelligent Automation
+
 
 ## 📊 GitHub Stats
 
